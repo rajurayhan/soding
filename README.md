@@ -26,12 +26,17 @@ The Workign Process is as below-
 ### Installation
 
 - Clone this repo. 
+- Create a Database 'task' with root user access. 
 - Download Composer from https://getcomposer.org/ 
 - Go to the Working Directory in cmd
 - Run the command 
 ```sh 
 composer update 
 ``` 
+- Run the command to migrate Database
+```sh
+php artisan migrate 
+```
 - Run the command 
 ```sh 
 php artisan serve

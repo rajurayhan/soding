@@ -17,6 +17,7 @@ This Repo is the personal assesment of Soding for the post Full-stack Web Develo
 
 The Workign Process is as below- 
 
+- Registration: Register as a new User with email and password. 
 - Add New Task : Takes input of Task Name and Description and Store to Database. 
 - Edit Task: Edit the existing value of a Task.
 - Delete Task: Delete a specific Task. 
